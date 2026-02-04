@@ -1,0 +1,2 @@
+# vinit
+kuch bhi
